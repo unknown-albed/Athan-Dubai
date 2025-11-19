@@ -1,0 +1,13 @@
+{
+  "api": {
+    "base_url": "https://api-crm.iacad.gov.ae/api//prayertime/getprayerfromlink",
+    "timeout": 10
+  },
+  "location": {
+    "city_id": 1,
+    "timezone": "Asia/Dubai"
+  },
+  "ui": {
+    "theme": "desert"
+  }
+}
